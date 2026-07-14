@@ -260,7 +260,7 @@ Project Verification
 > Save your schematic screenshot as
 
 ```
-screenshots/rtl_schematic.png
+"C:\Users\prabi\OneDrive\Pictures\Screenshots\Screenshot (248).png"
 ```
 
 Then display it:
@@ -290,14 +290,8 @@ screenshots/waveform.png
 Save as
 
 ```
-screenshots/timing_summary.png
-```
-
-```markdown
-![Timing Summary](screenshots/timing_summary.png)
-```
-
----
+"C:\Users\prabi\OneDrive\Pictures\Screenshots\Screenshot (251).png"
+``` 
 
 # 📊 Functional Verification
 
