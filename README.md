@@ -253,36 +253,6 @@ Project Verification
 
 ---
 
-# 📷 Project Screenshots
-
-## RTL Schematic
-
-> Save your schematic screenshot as
-
-```
-<img width="1557" height="596" alt="Screenshot (248)" src="https://github.com/user-attachments/assets/4a3debce-878b-4044-99e7-a7b7971ca84d" />
-
-```
-
-
-## Functional Simulation
-
-Save as
-
-```
-<img width="1920" height="1080" alt="Screenshot (246)" src="https://github.com/user-attachments/assets/3620b789-e1dc-4337-9848-03448eeebcb8" />
-
-```
-
-## Timing Summary
-
-Save as
-
-```
-<img width="701" height="713" alt="Screenshot (247)" src="https://github.com/user-attachments/assets/a06bdee3-0b3b-4c52-be11-8451907a9447" />
-
-``` 
-
 # 📊 Functional Verification
 
 The design has been verified using Vivado Functional Simulation.
@@ -371,7 +341,7 @@ Through this project, the following concepts were implemented and verified:
 # 👨‍💻 Author
 
 **Prabir Bishal**
-
+Contact me: prabirbishal2005@gmail.com
 # ⭐ If you found this project useful
 
 Please consider giving it a ⭐ on GitHub.
