@@ -260,37 +260,27 @@ Project Verification
 > Save your schematic screenshot as
 
 ```
-"C:\Users\prabi\OneDrive\Pictures\Screenshots\Screenshot (248).png"
+<img width="1557" height="596" alt="Screenshot (248)" src="https://github.com/user-attachments/assets/4a3debce-878b-4044-99e7-a7b7971ca84d" />
+
 ```
 
-Then display it:
-
-```markdown
-![RTL Schematic](screenshots/rtl_schematic.png)
-```
-
----
 
 ## Functional Simulation
 
 Save as
 
 ```
-screenshots/waveform.png
-```
+<img width="1920" height="1080" alt="Screenshot (246)" src="https://github.com/user-attachments/assets/3620b789-e1dc-4337-9848-03448eeebcb8" />
 
-```markdown
-![Simulation Waveform](screenshots/waveform.png)
 ```
-
----
 
 ## Timing Summary
 
 Save as
 
 ```
-"C:\Users\prabi\OneDrive\Pictures\Screenshots\Screenshot (251).png"
+<img width="701" height="713" alt="Screenshot (247)" src="https://github.com/user-attachments/assets/a06bdee3-0b3b-4c52-be11-8451907a9447" />
+
 ``` 
 
 # 📊 Functional Verification
