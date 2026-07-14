@@ -126,12 +126,14 @@ Network-Traffic-Generator-Performance-Monitoring-System
 │   └── tb_top.sv
 │
 ├── screenshots
-│   ├── rtl_schematic.png
-│   ├── waveform.png
-│   ├── timing_summary.png
-│
-├── docs
-│   └── Project_Report.pdf
+│   ├── Screenshot(227).png
+|   ├── Screenshot(228).png
+|   ├── Screenshot(245).png
+|   ├── Screenshot(246).png
+|   ├── Screenshot(247).png
+|   ├── Screenshot(248).png
+|   ├── Screenshot(251).png
+|
 │
 ├── LICENSE
 ├── .gitignore
